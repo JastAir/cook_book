@@ -1,0 +1,54 @@
+name: cook_book
+description: A new Flutter project.
+
+publish_to: "none"
+version: 1.0.2+3
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  flutter_bloc: ^6.1.1
+  lazy_loading_list: ^1.0.0+1
+  cached_network_image: ^2.4.1
+  get: ^3.22.2
+  equatable: ^1.2.5
+  http: ^0.12.2
+  cupertino_icons: ^1.0.0
+  hive: ^1.4.4+1
+  hive_flutter: ^0.3.1
+  photo_view: ^0.10.3
+
+  # firebase
+  firebase: ^7.0.0
+  # firebase_database: "5.5.0"
+  firebase_core: ^0.7.0
+  firebase_analytics: ^7.0.1
+
+dev_dependencies:
+  build_runner: ^1.10.12
+
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  fonts:
+    - family: Raleway
+      fonts:
+        - asset: fonts/Raleway/Raleway-Black.ttf
+        - asset: fonts/Raleway/Raleway-BlackItalic.ttf
+        - asset: fonts/Raleway/Raleway-Bold.ttf
+        - asset: fonts/Raleway/Raleway-BoldItalic.ttf
+        - asset: fonts/Raleway/Raleway-Italic.ttf
+        - asset: fonts/Raleway/Raleway-Light.ttf
+        - asset: fonts/Raleway/Raleway-LightItalic.ttf
+        - asset: fonts/Raleway/Raleway-Medium.ttf
+        - asset: fonts/Raleway/Raleway-MediumItalic.ttf
+        - asset: fonts/Raleway/Raleway-Regular.ttf
+        - asset: fonts/Raleway/Raleway-Thin.ttf
+        - asset: fonts/Raleway/Raleway-ThinItalic.ttf

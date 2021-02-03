@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "68422800767",
+    "firebase_url": "https://nextanews.firebaseio.com",
+    "project_id": "nextanews",
+    "storage_bucket": "nextanews.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68422800767:android:a3f8bda2eac8cc3cda764a",
+        "android_client_info": {
+          "package_name": "com.fdev.cookbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68422800767-kjbk2vd0ejar0k8lo5jvkvh866pvi42c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdXiYNh5vUop2qoAVJkR-oRCQta5pVPes"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68422800767-kjbk2vd0ejar0k8lo5jvkvh866pvi42c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "68422800767-kj3sfl9kq3a6lq5s29jp7er9t00e5od4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fdev.nexta"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
